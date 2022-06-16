@@ -1,4 +1,4 @@
-package app.src.main.java.com.sample.crud;
+package com.sample.crud;
 
 
 import org.springframework.boot.SpringApplication;
